@@ -1,0 +1,36 @@
+/* html, body {
+    height: 100%;
+    width: 100%;
+  }  */
+  
+form{
+  margin-top: 5%;
+}
+form div{
+  padding: 20px;
+  /* margin-left: 30px; */
+  font-size: 30px;
+  color: black;
+  text-align: center;
+  font-style: italic;
+}
+
+form div input{
+  box-sizing: border-box;
+  height: 35px;
+  width: 50%;
+}
+
+button{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
